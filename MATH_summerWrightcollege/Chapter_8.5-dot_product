@@ -1,0 +1,5 @@
+import math
+
+def DP():
+    print("--------Dot product--------")
+    
